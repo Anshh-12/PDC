@@ -1,5 +1,5 @@
 import multiprocessing
-from do_something import do_something
+from dosomething import do_something
 
 def myFunc(i):
     print(f"Starting process {i}")
